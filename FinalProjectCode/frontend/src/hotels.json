@@ -1,0 +1,75 @@
+[
+    {
+        "id": 1,
+        "name": "The Great Wheel",
+        "price": 80,
+        "picture": "https://images.unsplash.com/photo-1657571484267-6c0e7e6e1581?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8Z3JlYXQlMjB3aGVlbHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=900&q=60",
+        "stars": 3,
+        "available_quantity": 50,
+        "about": "Take a spin on The Great Wheel, we can't promise you will get back, but you will have the experience of your life."
+        
+
+    },
+    {
+        "id": 2,
+        "name": "David's Harbour",
+        "price": 320,
+        "picture": "https://images.unsplash.com/photo-1551617508-65a8e1cddcc2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8aGFyYm91cnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=900&q=60",
+        "stars": 4,
+        "available_quantity": 50,
+        "about": "Sit by the Harbour and dream of what life could be. Live. Laugh. Love. Lol."
+        
+
+    },
+    {
+        "id": 3,
+        "name": "The Great Bridge",
+        "price": 130,
+        "picture": "https://images.unsplash.com/photo-1522775559573-2f76d540932b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8YnJpZGdlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=900&q=60",
+        "stars": 3,
+        "available_quantity": 50,
+        "about": "The Lagoon sits right next to the Great Bridge. Experience the cool waters anytime of the day whilst being waited upon."
+        
+    },
+    {
+        "id": 4,
+        "name": "Dolly's Magnificent Emporium",
+        "price": 200,
+        "picture": "https://images.unsplash.com/photo-1570097703231-5614942ceac9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8ZW1wb3JpdW18ZW58MHx8MHx8&auto=format&fit=crop&w=900&q=60",
+        "stars": 5,
+        "available_quantity": 50,
+        "about": "Welcome to the Magnificent Emporium! We promise to treat you like the kings and queens you are, book with TripPlanner for a true taste of the royal treatment."
+        
+
+    },
+
+    {
+        "id": 5,
+        "name": "Dave and Buster's",
+        "price": 200,
+        "picture": "https://images.unsplash.com/photo-1637739306321-a6702e60fd51?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8ZGF2ZSUyMGFuZCUyMGJ1c3RlcnN8ZW58MHx8MHx8&auto=format&fit=crop&w=900&q=60",
+        "stars": 5,
+        "available_quantity": 50,
+        "about": "Best arcade in the city! Great food and great night!"
+        
+
+    },
+    {
+        "id": 6,
+        "name": "The Great Gum Wall",
+        "price": 200,
+        "picture": "https://images.unsplash.com/photo-1466485840407-618ece822e97?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8Z3VtJTIwd2FsbHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=900&q=60",
+        "stars": 5,
+        "available_quantity": 50,
+        "about": "Leave a piece of gum on this historic wall with original gum pieces dating back to almost 20 years. Free bubble gum at the location. #BubbleBubbleToilAndTrouble"
+        
+
+    }
+
+
+
+
+
+
+
+]

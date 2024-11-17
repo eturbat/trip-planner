@@ -1,0 +1,105 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+:root {
+    --main-color: #01579b
+}  
+
+h2 {
+    text-align: center;
+    font-size: 3vw; 
+}
+
+h4 {
+    font-size: 2vw;
+}
+
+h6, .card-title {
+    font-size: 1vw;
+}
+
+.container {
+    padding: 50px;
+}
+
+.brand-logo {
+    margin: auto 20px; 
+}
+
+footer {
+    width: 100%;
+    padding: 40px 35px;
+  }
+
+.datepicker-date-display {
+    background-color: var(--main-color);
+}
+   
+.datepicker-cancel, .datepicker-clear, .datepicker-today, .datepicker-done {
+    color: var(--main-color)
+}
+   
+.datepicker-table td.is-today {
+    color: var(--main-color)
+}
+   
+.datepicker-table td.is-selected {
+    background-color: var(--main-color);
+    color: #fff;
+}
+
+.material-icons{
+    color: var(--main-color);
+    }
+
+#menu-icon {
+    color: white;
+    }
+
+.left, .right {
+    color: white;
+    }
+
+
+.carousel {
+    height: 750px;
+    background-size: cover;
+    background-position: center;
+  }
+
+
+.hidden {
+    visibility: hidden;
+}
+
+.card {
+    padding: 15px 15px;
+}
+
+.message, .trip-title {
+    text-align: center;
+}
+
+@media screen and (max-width: 480px) {
+    h2 {
+        text-align: center;
+        font-size: 5vw; 
+    }
+    
+    h4 {
+        font-size: 4vw;
+    }
+
+    h6 {
+        font-size: 3vw;
+    }
+
+    .logo {
+        font-size: 20px;
+    }
+
+}
